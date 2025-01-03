@@ -1,7 +1,7 @@
 # BetragZuText
 Einfaches Excel Add-In um Euro Beträge in den entsprechenden Text zu übersetzen.
 
-Installation:
+## Installation:
 1. Add-In File in den AddIns-Ordner kopieren (Standardpfad: C:\Users\[Username]\AppData\Roaming\Microsoft\AddIns)
 2. Excel öffnen
 3. Optionen öffnen (Datei -> Optionen)
@@ -11,6 +11,6 @@ Installation:
 7. Excel neu starten
 
 
-Verwendung:
+## Verwendung:
 
 Zur Verwendung, wie bei einer normalen Funktion: =BetragInText(Zelle)
