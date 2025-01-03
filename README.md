@@ -10,5 +10,7 @@ Installation:
 6. Dem Eintrag "Betragzutext" ein Häckchen geben und "OK" klicken
 7. Excel neu starten
 
+
 Verwendung:
+
 Zur Verwendung, wie bei einer normalen Funktion: =BetragInText(Zelle)
